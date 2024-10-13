@@ -1,0 +1,10 @@
+# Node modules
+node_modules/
+
+# pnpm lock file
+pnpm-lock.yaml
+
+# Other files to ignore
+.DS_Store
+.env
+dist/
